@@ -5,6 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
 
 
+## 📈 Github Stats
 
 <a href="https://github.com/Devilyxrd">
  
