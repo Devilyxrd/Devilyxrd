@@ -24,13 +24,13 @@
 </div>
 
     
-## 🖤 Devil Love's
+
     
     ```js
-class richard{
+class devil{
   constructor(options) {
     this.who = "no body",
-    this.aka = "richardsistemler"
+    this.aka = "devilyxrd"
   }
 }
 ```
