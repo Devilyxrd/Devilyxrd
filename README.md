@@ -6,7 +6,7 @@
     <a href="https://discord.com/users/791719890553274389" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/791719890553274389"></a>
 </div>
 
-## ⚡ Contact
+## ⚡ Social Medias
 <div align="center">
      <a href="https://discord.com/users/791719890553274389" target="_blank"><img src="https://shields.io/badge/@devil-111111.svg?&style=for-the-badge&logo=discord"></a>
      <a href="https://github.com/devilyxrd" target="_blank"><img src="https://shields.io/badge/@devil-111111.svg?&style=for-the-badge&logo=github"></a>
