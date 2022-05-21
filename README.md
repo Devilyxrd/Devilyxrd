@@ -6,4 +6,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyxrd&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
 </a>
 
-[![Discord Presence](https://lanyard.devilyxrd.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
+[![Discord Presence](https://lanyard.cnrad.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
