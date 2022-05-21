@@ -11,7 +11,7 @@
      <a href="https://discord.com/users/791719890553274389" target="_blank"><img src="https://shields.io/badge/@devil-111111.svg?&style=for-the-badge&logo=discord"></a>
      <a href="https://github.com/devilyxrd" target="_blank"><img src="https://shields.io/badge/@devil-111111.svg?&style=for-the-badge&logo=github"></a>
      <a href="https://open.spotify.com/user/31wkss7c2lcsk6zjupynod725c6y" target"blank_"><img src="https://img.shields.io/badge/@Devil%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-    <a href="https://instagram.com/devilyxrdddddd" target"blank_" target"blank_"><img src="https://img.shields.io/badge/@Devil - 3f729b  ?%20-1ed760.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://instagram.com/devilyxrdddddd" target"blank_" target"blank_"><img src="https://img.shields.io/badge/@Devil - 000000  ?%20-1ed760.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
     
 </div>
 
