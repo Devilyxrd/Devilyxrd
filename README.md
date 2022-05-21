@@ -1,11 +1,14 @@
-<img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389"><img alt="Discord" src="https://img.shields.io/badge/@devilyxrd-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/devilyxrdddddd"><img src="https://img.shields.io/badge/@devilyxrdddddd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;[![GitHub Devilyxrd](https://img.shields.io/github/followers/Devilyxrd?label=follow&style=social)](https://github.com/Devilyxrd)&nbsp;
-
-## 🖤 Discord Profile
 
 
+## 🖤 Hi I'm Devil
+
+<img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
 [![Discord Presence](https://lanyard.cnrad.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
 
+
+## ⚡ Contact
+<img alt="Discord" src="https://img.shields.io/badge/@devilyxrd-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/devilyxrdddddd"><img src="https://img.shields.io/badge/@devilyxrdddddd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;[![GitHub Devilyxrd](https://img.shields.io/github/followers/Devilyxrd?label=follow&style=social)](https://github.com/Devilyxrd)&nbsp;
 
 ## 📈 Github Stats
 
