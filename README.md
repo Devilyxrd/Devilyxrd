@@ -1,8 +1,8 @@
 ## 🖤 Hi I'm Devil
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
+ [![Discord Presence](https://lanyard.cnrad.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
 </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
 
 ## ⚡ Contact
 <img alt="Discord" src="https://img.shields.io/badge/@devilyxrd-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
