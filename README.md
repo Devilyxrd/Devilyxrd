@@ -10,6 +10,7 @@
 <div align="center">
      <a href="https://discord.com/users/791719890553274389" target="_blank"><img src="https://shields.io/badge/@devil-111111.svg?&style=for-the-badge&logo=discord"></a>
      <a href="https://github.com/devilyxrd" target="_blank"><img src="https://shields.io/badge/@devil-111111.svg?&style=for-the-badge&logo=github"></a>
+        <a href="https://open.spotify.com/user/Devil" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
 ## 📈 Github Stats
