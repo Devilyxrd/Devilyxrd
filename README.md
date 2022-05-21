@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/791719890553274389?theme=light&bg=e4a446&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/791719890553274389)
+<img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=37fa3f" alt="Devilyxrd" />
