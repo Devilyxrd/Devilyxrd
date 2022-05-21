@@ -7,6 +7,10 @@
 </div>
 
 ## ⚡ Contact
+<div align="center">
+     <a href="https://discord.com/users/791719890553274389" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+</div>
+    
 <img alt="Discord" src="https://img.shields.io/badge/@devilyxrd-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/devilyxrdddddd"><img src="https://img.shields.io/badge/@devilyxrdddddd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;[![GitHub Devilyxrd](https://img.shields.io/github/followers/Devilyxrd?label=follow&style=social)](https://github.com/Devilyxrd)&nbsp;
 
