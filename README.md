@@ -26,11 +26,11 @@
     
 ## 🖤 Devil
     
-```js
+```c#
 class devil{
   constructor(options) {
     this.who = "no body",
-    this.aka = "devilyxrd"
+    this.system = "devilyxrd software"
   }
 }
 ```
