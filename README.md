@@ -31,11 +31,11 @@
 class devil{
   constructor(options) {
     this.who = "no body",
-    this.age = "16",
+    this.age = "17",
     this.size = "1.96",
     this.sportactivity = "basketboll",
     this.system = "devilyxrd software",
-    this.language = "C# , C++ , Py , Html , Css , MySQL , Js , Php";
+    this.language = "C# , C++ , Py , Html , Css , MySQL , Js , PDO Php , jQuery";
   }
 }
 ```
