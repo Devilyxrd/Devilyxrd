@@ -1,4 +1,4 @@
-## 🖤 Hi I'm Devil
+## 🖤 Hi I'm Devilyxrd
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
 </div>
@@ -33,9 +33,8 @@ class devil{
     this.who = "no body",
     this.age = "17",
     this.size = "1.96",
-    this.sportactivity = "basketboll",
-    this.system = "devilyxrd software",
-    this.language = "C# , C++ , Py , Html , Css , MySQL , Js , PDO Php , jQuery";
+    this.sex = "male",
+    this.job = "student"
   }
 }
 ```
