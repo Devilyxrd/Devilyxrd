@@ -49,6 +49,9 @@
     <a href="https://www.php.net" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
     </a>
+    <a href="https://laravel.com/" rel="nofollow">
+        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
+    </a>
     <a href="https://www.postgresql.org" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
     </a>
