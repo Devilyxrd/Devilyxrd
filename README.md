@@ -47,7 +47,7 @@
         <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://jquery.com/" rel="nofollow">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcaglarbostanci.com.tr%2Fjquery-seciciler-selectors%2F&psig=AOvVaw3FRYySNkBnYxja1aNCjF7L&ust=1706698126095000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjYjY74hIQDFQAAAAAdAAAAABAE" alt="jQuery" width="40" height="40" style="max-width: 100%;">
+        <img src="https://jquery.com/" alt="jQuery" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://www.php.net" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
