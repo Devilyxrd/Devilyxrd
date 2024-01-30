@@ -47,7 +47,7 @@
         <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://jquery.com/" rel="nofollow">
-        <img src="https://jquery.com/wp-content/themes/jquery/images/logo-jquery.png" alt="jQuery" width="40" height="40" style="max-width: 100%;">
+        <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="jQuery" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://www.php.net" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
