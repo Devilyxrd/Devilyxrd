@@ -20,7 +20,7 @@
 
 <p align="left dir="auto">
     <a href="https://getbootstrap.com" rel="nofollow">
-        <img src="http://www.w3.org/2000/svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
+        <img src="https://icons.getbootstrap.com/assets/img/favicons/android-chrome-192x192.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://www.w3schools.com/cpp/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
