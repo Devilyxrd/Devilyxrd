@@ -81,7 +81,7 @@
 class devil{
   constructor(options) {
     this.who = "no body";
-    this.age = "17";
+    this.age = "18";
     this.size = "1.96";
     this.sex = "male";
     this.job = "student";
