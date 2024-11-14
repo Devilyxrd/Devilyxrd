@@ -78,11 +78,11 @@
 ## 🖤 Devil
     
 ```c#
-class devil{
+class devilyxrd{
   constructor(options) {
     this.who = "no body";
     this.age = "18";
-    this.size = "1.96";
+    this.size = "1.97";
     this.sex = "male";
     this.job = "student";
   }
