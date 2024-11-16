@@ -1,4 +1,4 @@
-<img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true" style="width: 100%; height: auto;">
+<img src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif" style="width: 100%; height: auto;">
 
 <div>
   <h2>
