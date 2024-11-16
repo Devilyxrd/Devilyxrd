@@ -87,6 +87,7 @@
         <img src="https://github.com/user-attachments/assets/222a8eba-278b-4258-a464-b3b8ea79344f" alt="Gitlab" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/22a00d6f-c02d-4283-9616-c0c0d4dc274e" alt="Anaconda" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/57ec5bbb-2f5f-413f-8351-17a30e8601cd" alt="Composer" width="40" height="40"/>
+        <img src="ttps://github.com/user-attachments/assets/715060ae-0733-487a-a13f-a0904461c18d" alt="Cloudflare" width="40" height="40"/>
       </td>
     </tr>
     <tr>
