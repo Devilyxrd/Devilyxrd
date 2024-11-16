@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2>
+  <h2 align="center">
     Hi! I'm Devilyxrd.
     <a href="https://visitcount.itsvg.in">
           <img align="right" src="https://visitcount.itsvg.in/api?id=Devilyxrd&label=Profile%20Views&color=12&icon=2&pretty=false" />
