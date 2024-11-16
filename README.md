@@ -43,7 +43,6 @@
         <img src="https://github.com/user-attachments/assets/38790aef-a071-455f-9b8f-2b90c2389347" alt="Java" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/7b20c445-618e-4874-ac2d-67500ebf3a34" alt="JS" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/d09da068-66e6-4a22-ae18-d18803df38fc" alt="Python" width="40" height="40"/>
-        <img src="https://github.com/user-attachments/assets/22a00d6f-c02d-4283-9616-c0c0d4dc274e" alt="Anaconda" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/09b52c65-c3de-4357-976f-8ac2cc031a01" alt="jQuery" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/90b00865-4ead-4a24-aee4-e6d91b9abb43" alt="PHP" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/b50742f9-8b6a-4843-a575-f618f739e119" alt="Laravel" width="40" height="40"/>
@@ -85,6 +84,7 @@
         <img src="https://github.com/user-attachments/assets/3314f01e-2df9-4c9f-a4c4-86fd38116b1d" alt="Bash" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/43abf317-e24b-4a90-bf98-a24106576729" alt="Github" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/222a8eba-278b-4258-a464-b3b8ea79344f" alt="Gitlab" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/22a00d6f-c02d-4283-9616-c0c0d4dc274e" alt="Anaconda" width="40" height="40"/>
       </td>
     </tr>
     <tr>
