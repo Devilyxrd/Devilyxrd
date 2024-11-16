@@ -37,8 +37,8 @@
     <tr>
       <th>Programming Languages</th>
       <td> 
-        <img src="https://github.com/user-attachments/assets/33331520-0d4f-4b88-a91b-2711d260b211" alt="C++" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/a03f6ffc-44d0-4207-a202-68e5e0238e50" alt="C" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/33331520-0d4f-4b88-a91b-2711d260b211" alt="C++" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/7ae0f690-3219-4fc1-bcc1-218bf9442f29" alt="C#" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/38790aef-a071-455f-9b8f-2b90c2389347" alt="Java" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/7b20c445-618e-4874-ac2d-67500ebf3a34" alt="JS" width="40" height="40"/>
@@ -86,6 +86,7 @@
         <img src="https://github.com/user-attachments/assets/43abf317-e24b-4a90-bf98-a24106576729" alt="Github" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/222a8eba-278b-4258-a464-b3b8ea79344f" alt="Gitlab" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/22a00d6f-c02d-4283-9616-c0c0d4dc274e" alt="Anaconda" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/57ec5bbb-2f5f-413f-8351-17a30e8601cd" alt="Composer" width="40" height="40"/>
       </td>
     </tr>
     <tr>
