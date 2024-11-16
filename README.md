@@ -14,6 +14,13 @@
 <br>
 
 <div align="center">
+      <h2>Visit My Website</h2>
+     <a href="https://devilyxrd.com/" target="_blank"><img src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge"></a>
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://discord.com/users/791719890553274389" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/791719890553274389"></a>
 </div>
 
