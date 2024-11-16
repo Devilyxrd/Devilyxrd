@@ -36,6 +36,8 @@
             src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
     <a target="_blank" href="https://www.linkedin.com/in/kaan-atalay-274b00263/"><img
             src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/kaan-atalay-274b00263/"><img
+            src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
     <a target="_blank" href="https://devilyxrd.com/"><img
             src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge&logo=next.js"></a>
 </div>
