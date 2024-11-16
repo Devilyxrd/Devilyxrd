@@ -23,25 +23,21 @@
 <br>
 
 <div align="center">
-    <h2>Social Medias</h2>
-    <a href="https://discord.com/users/" target="_blank"><img
+    <h2>You Can Find Me</h2>
+    <a target="_blank" href="https://discord.com/users/"><img
             src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Devilyxrd" target="_blank"><img
+    <a target="_blank" href="https://github.com/Devilyxrd"><img
             src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://open.spotify.com/user/31wkss7c2lcsk6zjupynod725c6y" target"blank_"><img
+    <a target="_blank" href="https://open.spotify.com/user/31wkss7c2lcsk6zjupynod725c6y"><img
             src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-    <a href="https://instagram.com/Devilyxrd" target"blank_" target"blank_"><img
+    <a target="_blank" href="https://instagram.com/Devilyxrd"><img
             src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href="https://x.com/Devilyxrd" target"blank_" target"blank_"><img
+    <a target="_blank" href="https://x.com/Devilyxrd"><img
             src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
-</div>
-
-<br>
-
-<div align="center">
-    <h2>Visit My Website</h2>
-    <a href="https://devilyxrd.com/" target="_blank"><img
-            src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/kaan-atalay-274b00263/"><img
+            src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a target="_blank" href="https://devilyxrd.com/"><img
+            src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge&logo=next.js"></a>
 </div>
 
 <br>
