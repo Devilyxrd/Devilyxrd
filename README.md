@@ -1,4 +1,7 @@
 ## 🖤 Hi I'm Devilyxrd
+
+<img src="ImageFiles/Gif/banner.gif" style="width: 100%; height: auto;">
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
 </div>
