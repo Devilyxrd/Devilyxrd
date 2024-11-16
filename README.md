@@ -81,18 +81,3 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Devilyxrd&theme=shadow_red&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=devilyxrd&show_icons=true&theme=shadow_red" style="width: 400px;">
 </div>
-
-    
-## 🖤 Devil
-    
-```c#
-class devilyxrd{
-  constructor(options) {
-    this.who = "no body";
-    this.age = "18";
-    this.size = "1.97";
-    this.sex = "male";
-    this.job = "student";
-  }
-}
-```
