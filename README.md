@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/c9/0d/ed/c90ded5d6ab3415febb7187e08e7dd37.gif" style="width: 100%; height: auto;">
+<img align="right" src="https://i.pinimg.com/originals/c9/0d/ed/c90ded5d6ab3415febb7187e08e7dd37.gif" style="width: 100%; height: auto;">
 
 <div>
   <h2>
