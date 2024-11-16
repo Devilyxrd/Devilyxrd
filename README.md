@@ -2,6 +2,13 @@
   <img src="https://i.pinimg.com/originals/c9/0d/ed/c90ded5d6ab3415febb7187e08e7dd37.gif" style="width: 100%; height: auto;">
 </div>
 
+<br>
+
+<div align="center">
+      <h2>Visit My Website</h2>
+     <a href="https://devilyxrd.com/" target="_blank"><img src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge"></a>
+</div>
+
 <div>
   <h2>
     Hi! I'm Devilyxrd.
@@ -10,16 +17,7 @@
     </a>
   </h1>
 </div>
-
 <br>
-
-<div align="center">
-      <h2>Visit My Website</h2>
-     <a href="https://devilyxrd.com/" target="_blank"><img src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge"></a>
-</div>
-
-<br>
-
 <div align="center">
     <a href="https://discord.com/users/791719890553274389" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/791719890553274389"></a>
 </div>
