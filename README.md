@@ -10,9 +10,6 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
-</div>
-<div align="center">
     <a href="https://discord.com/users/791719890553274389" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/791719890553274389"></a>
 </div>
 
