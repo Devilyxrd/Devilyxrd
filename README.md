@@ -92,7 +92,7 @@
       <td>
         <img src="https://github.com/user-attachments/assets/6675d627-ffdd-4ba3-a8d8-f0e5af66d267" alt="Tailwind CSS" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/f9ea9f0d-6711-49a4-90aa-5f29e81ebc11" alt="Bootstrap" width="40" height="40"/>
-        <img src="https://github.com/user-attachments/assets/45ae0b85-0c56-41f1-817d-790be61ed17f)" alt="HTML" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/45ae0b85-0c56-41f1-817d-790be61ed17f" alt="HTML" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/36bd8b1d-9382-405b-ac70-dd783ee052f3" alt="CSS" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/01638ccb-b579-4800-b1fa-e4866d9147c7" alt="Sass" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/85b69495-a20e-4f3e-a767-dc9105e90073" alt="Wordpress" width="40" height="40"/>
