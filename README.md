@@ -42,6 +42,7 @@
         <img src="https://github.com/user-attachments/assets/7ae0f690-3219-4fc1-bcc1-218bf9442f29" alt="C#" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/38790aef-a071-455f-9b8f-2b90c2389347" alt="Java" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/7b20c445-618e-4874-ac2d-67500ebf3a34" alt="JS" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/86075716-b8c5-4ed5-a0f6-44a2a4c6f23b" alt="NodeJS" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/d09da068-66e6-4a22-ae18-d18803df38fc" alt="Python" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/09b52c65-c3de-4357-976f-8ac2cc031a01" alt="jQuery" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/90b00865-4ead-4a24-aee4-e6d91b9abb43" alt="PHP" width="40" height="40"/>
