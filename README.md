@@ -2,6 +2,15 @@
 
 ## 🖤 Hi I'm Devilyxrd
 
+<div>
+  <h1>
+    Hi! I'm Devilyxrd.
+    <a href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=Devilyxrd&label=Profile%20Views&color=12&icon=2&pretty=false" />
+    </a>
+  </h1>
+</div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
 </div>
