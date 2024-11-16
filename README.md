@@ -1,12 +1,10 @@
 <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true" style="width: 100%; height: auto;">
 
-## 🖤 Hi I'm Devilyxrd
-
 <div>
-  <h1>
+  <h2>
     Hi! I'm Devilyxrd.
     <a href="https://visitcount.itsvg.in">
-          <img src="https://visitcount.itsvg.in/api?id=Devilyxrd&label=Profile%20Views&color=12&icon=2&pretty=false" />
+          <img align="right" src="https://visitcount.itsvg.in/api?id=Devilyxrd&label=Profile%20Views&color=12&icon=2&pretty=false" />
     </a>
   </h1>
 </div>
