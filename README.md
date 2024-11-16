@@ -15,8 +15,6 @@
 
 <div align="center">
     <a href="https://discord.com/users/791719890553274389" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/791719890553274389"></a>
-    <br>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wkss7c2lcsk6zjupynod725c6y" width="400px"/>
 </div>
 
 <br>
