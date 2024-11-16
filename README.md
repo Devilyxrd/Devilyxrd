@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2 align="center">
+  <h2>
     Hi! I'm Devilyxrd.
     <a href="https://visitcount.itsvg.in">
           <img align="right" src="https://visitcount.itsvg.in/api?id=Devilyxrd&label=Profile%20Views&color=12&icon=2&pretty=false" />
@@ -88,7 +88,7 @@
       </td>
     </tr>
     <tr>
-      <th>Others</th>
+      <th>Web Design</th>
       <td>
         <img src="https://github.com/user-attachments/assets/6675d627-ffdd-4ba3-a8d8-f0e5af66d267" alt="Tailwind CSS" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/f9ea9f0d-6711-49a4-90aa-5f29e81ebc11" alt="Bootstrap" width="40" height="40"/>
