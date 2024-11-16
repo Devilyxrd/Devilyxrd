@@ -37,7 +37,7 @@
     <tr>
       <th>Programming Languages</th>
       <td> 
-        <img src="ImageFiles/Image/cpp.png" alt="C++" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/33331520-0d4f-4b88-a91b-2711d260b211" alt="C++" width="40" height="40"/>
         <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/7ae0f690-3219-4fc1-bcc1-218bf9442f29" alt="C#" width="40" height="40"/>
         <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
