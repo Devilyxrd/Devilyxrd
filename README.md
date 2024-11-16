@@ -47,6 +47,7 @@
         <img src="https://github.com/user-attachments/assets/09b52c65-c3de-4357-976f-8ac2cc031a01" alt="jQuery" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/90b00865-4ead-4a24-aee4-e6d91b9abb43" alt="PHP" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/b50742f9-8b6a-4843-a575-f618f739e119" alt="Laravel" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/1807be6e-b5b1-4370-81e5-32eae80c50fa" alt="Go" width="40" height="40"/>
       </td>
     </tr>
     <tr>
@@ -88,6 +89,7 @@
         <img src="https://github.com/user-attachments/assets/22a00d6f-c02d-4283-9616-c0c0d4dc274e" alt="Anaconda" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/57ec5bbb-2f5f-413f-8351-17a30e8601cd" alt="Composer" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/715060ae-0733-487a-a13f-a0904461c18d" alt="Cloudflare" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/77930119-a4b7-4b52-8da0-436ae69775fc" alt="FileZilla" width="40" height="40"/>
       </td>
     </tr>
     <tr>
@@ -99,6 +101,7 @@
         <img src="https://github.com/user-attachments/assets/36bd8b1d-9382-405b-ac70-dd783ee052f3" alt="CSS" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/01638ccb-b579-4800-b1fa-e4866d9147c7" alt="Sass" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/85b69495-a20e-4f3e-a767-dc9105e90073" alt="Wordpress" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/813ca3ae-d7ca-48b4-8c68-f6dcbe3613a9" alt="Figma" width="40" height="40"/>
       </td>
     </tr>
   </table>  
