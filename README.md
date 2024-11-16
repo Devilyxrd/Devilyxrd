@@ -50,8 +50,11 @@
     <tr>
       <th>Databases</th>
       <td>
-        <img src="ImageFiles/Image/sqlite.png" alt="Sqlite3" width="40" height="40">
-        <img src="ImageFiles/Image/SQL.png" alt="MSQL_Language" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/51520c93-cd75-41ea-b984-5a1de2b16469" alt="SQL Server" width="40" height="40">
+        <img src="https://github.com/user-attachments/assets/f295d028-d082-47a5-b8f4-a29ed6ea8868" alt="SQLite" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/6181b511-a5dd-41d6-b312-aef9bd8a898a" alt="MySQL" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/63b93711-7291-4e21-90fd-effadab456bb" alt="PostgresSQL" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/07b61ed3-9286-442e-afc1-a99918d1fb84" alt="Microsoft SQL Server" width="40" height="40"/>
       </td>
     </tr>
     <tr>
