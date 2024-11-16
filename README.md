@@ -89,6 +89,8 @@
   </table>  
 </div>
 
+<br>
+
 ## 📈 Github Stats
 
 <div align="center">
