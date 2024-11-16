@@ -27,53 +27,64 @@
 
 ## 🌐 Software Languages and Tools
 
-<p align="left dir="auto">
-    <a href="https://getbootstrap.com" rel="nofollow" target="_blank">
-        <img src="https://icons.getbootstrap.com/assets/img/favicons/android-chrome-192x192.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.w3schools.com/cpp/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.w3schools.com/css/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.mongodb.com/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.mysql.com/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://nodejs.org" rel="nofollow" target="_blank">
-        <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://jquery.com/" rel="nofollow" target="_blank">
-        <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="jQuery" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.php.net" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://laravel.com/" rel="nofollow" target="_blank">
-        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.postgresql.org" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.python.org" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://vuejs.org/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;">
-    </a>
-</p>
+<div align="center">   
+  <h2>OS, Programming Languages and Tools</h2>
+  <p>It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life.</p>
+  <table style="width: 100%;">
+    <tr>
+      <th>Programming Languages</th>
+      <td> 
+        <img src="ImageFiles/Image/cpp.png" alt="C++" width="40" height="40"/>
+        <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
+        <img src="ImageFiles/Image/c_sharp.png" alt="C#" width="40" height="40"/>
+        <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
+        <img src="ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />      
+      </td>
+    </tr>
+    <tr>
+      <th>Libraries</th>
+      <td>
+        <img src="https://img.shields.io/badge/-Botan Crypto Library-blue">
+        <img src="https://img.shields.io/badge/-PKCS11 Library-blue">
+        <img src="https://img.shields.io/badge/-GnuTLS-blue">
+      </td>
+    </tr>
+    <tr>
+      <th>Databases</th>
+      <td>
+        <img src="ImageFiles/Image/sqlite.png" alt="Sqlite3" width="40" height="40">
+        <img src="ImageFiles/Image/SQL.png" alt="MSQL_Language" width="40" height="40"/>
+      </td>
+    </tr>
+    <tr>
+      <th>Automate, Deploy, Platform & Tools</th>
+      <td>
+        <img src="ImageFiles/Image/bash_script.png" alt="Bash Script" width="40" height="40"/>
+        <img src="ImageFiles/Image/Git.png" alt="Git" width="40" height="40"/>
+        <img src="ImageFiles/Image/github.png" alt="Github" width="40" height="40"/>
+        <img src="ImageFiles/Image/atlassian.png" alt="Atlassian" width="38" height="38"/>
+        <img src="ImageFiles/Image/wireshark.png" alt="Wireshark" width="40" height="40" /> 
+      </td>
+    </tr>
+    <tr>
+      <th>Operating Systems</th>
+      <td>
+        <img src="ImageFiles/Image/linux.png" alt="Linux" width="40" height="40"/>
+        <img src="ImageFiles/Image/windows.png" alt="Windows" width="40" height="40"/>
+      </td>
+    </tr>
+    <tr>
+      <th>Others</th>
+      <td>
+        <img src="https://img.shields.io/badge/-ShellCheck-blue">
+        <img src="https://img.shields.io/badge/-CppCheck-blue">
+        <br>
+        <img src="ImageFiles/Image/adobe_photoshop.png" alt="Photoshop" width="40" height="40"/>
+        <img src="ImageFiles/Image/adobe_illustration.png" alt="Illustrator" width="40" height="40"/>
+      </td>
+    </tr>
+  </table>  
+</div>
 
 ## 📈 Github Stats
 
