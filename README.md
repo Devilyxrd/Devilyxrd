@@ -1,6 +1,6 @@
-## 🖤 Hi I'm Devilyxrd
-
 <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true" style="width: 100%; height: auto;">
+
+## 🖤 Hi I'm Devilyxrd
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Devilyxrd&label=Profile%20Viewers&color=000000" alt="Devilyxrd" /> <a href="https://discord.com/users/791719890553274389">
