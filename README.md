@@ -38,10 +38,13 @@
       <th>Programming Languages</th>
       <td> 
         <img src="https://github.com/user-attachments/assets/33331520-0d4f-4b88-a91b-2711d260b211" alt="C++" width="40" height="40"/>
-        <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/a03f6ffc-44d0-4207-a202-68e5e0238e50" alt="C" width="40" height="40"/>
         <img src="https://github.com/user-attachments/assets/7ae0f690-3219-4fc1-bcc1-218bf9442f29" alt="C#" width="40" height="40"/>
-        <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
-        <img src="ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />      
+        <img src="https://github.com/user-attachments/assets/38790aef-a071-455f-9b8f-2b90c2389347" alt="Java" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/7b20c445-618e-4874-ac2d-67500ebf3a34" alt="JS" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/09b52c65-c3de-4357-976f-8ac2cc031a01" alt="jQuery" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/90b00865-4ead-4a24-aee4-e6d91b9abb43" alt="PHP" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/b50742f9-8b6a-4843-a575-f618f739e119" alt="Laravel" width="40" height="40"/>
       </td>
     </tr>
     <tr>
