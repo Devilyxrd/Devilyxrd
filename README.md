@@ -32,7 +32,7 @@
 
 <div align="center">   
   <h2>OS, Programming Languages and Tools</h2>
-  <p>It can be said that the language and technology I use most is C++. I have used most of the tools below in my work and school life.</p>
+  <p>It can be said that the language and technology I use most is Js and PHP. I have used most of the tools below in my work and school life.</p>
   <table style="width: 100%;">
     <tr>
       <th>Programming Languages</th>
@@ -45,14 +45,6 @@
       </td>
     </tr>
     <tr>
-      <th>Libraries</th>
-      <td>
-        <img src="https://img.shields.io/badge/-Botan Crypto Library-blue">
-        <img src="https://img.shields.io/badge/-PKCS11 Library-blue">
-        <img src="https://img.shields.io/badge/-GnuTLS-blue">
-      </td>
-    </tr>
-    <tr>
       <th>Databases</th>
       <td>
         <img src="ImageFiles/Image/sqlite.png" alt="Sqlite3" width="40" height="40">
@@ -60,30 +52,10 @@
       </td>
     </tr>
     <tr>
-      <th>Automate, Deploy, Platform & Tools</th>
-      <td>
-        <img src="ImageFiles/Image/bash_script.png" alt="Bash Script" width="40" height="40"/>
-        <img src="ImageFiles/Image/Git.png" alt="Git" width="40" height="40"/>
-        <img src="ImageFiles/Image/github.png" alt="Github" width="40" height="40"/>
-        <img src="ImageFiles/Image/atlassian.png" alt="Atlassian" width="38" height="38"/>
-        <img src="ImageFiles/Image/wireshark.png" alt="Wireshark" width="40" height="40" /> 
-      </td>
-    </tr>
-    <tr>
       <th>Operating Systems</th>
       <td>
         <img src="ImageFiles/Image/linux.png" alt="Linux" width="40" height="40"/>
         <img src="ImageFiles/Image/windows.png" alt="Windows" width="40" height="40"/>
-      </td>
-    </tr>
-    <tr>
-      <th>Others</th>
-      <td>
-        <img src="https://img.shields.io/badge/-ShellCheck-blue">
-        <img src="https://img.shields.io/badge/-CppCheck-blue">
-        <br>
-        <img src="ImageFiles/Image/adobe_photoshop.png" alt="Photoshop" width="40" height="40"/>
-        <img src="ImageFiles/Image/adobe_illustration.png" alt="Illustrator" width="40" height="40"/>
       </td>
     </tr>
   </table>  
