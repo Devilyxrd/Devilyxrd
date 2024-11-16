@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/dd00bda2-a27b-44b4-8da9-f438d49fc040)<div align="center">
   <img src="https://i.pinimg.com/originals/c9/0d/ed/c90ded5d6ab3415febb7187e08e7dd37.gif" style="width: 100%; height: auto;">
 </div>
 
@@ -39,7 +39,7 @@
       <td> 
         <img src="ImageFiles/Image/cpp.png" alt="C++" width="40" height="40"/>
         <img src="ImageFiles/Image/c.png" alt="C" width="40" height="40"/>
-        <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" alt="C#" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/7ae0f690-3219-4fc1-bcc1-218bf9442f29" alt="C#" width="40" height="40"/>
         <img src="ImageFiles/Image/.net_core.png" alt=".NET Core" width="40" height="40"/>
         <img src="ImageFiles/Image/Java.png" alt="Java" width="40" height="40" />      
       </td>
