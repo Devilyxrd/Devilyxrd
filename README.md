@@ -15,17 +15,14 @@
     <a href="https://discord.com/users/791719890553274389" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/791719890553274389"></a>
 </div>
 
-## ⚡ Social Medias
 <div align="center">
+      <h2>Social Medias</h2>
      <a href="https://discord.com/users/" target="_blank"><img src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge&logo=discord"></a>
      <a href="https://github.com/Devilyxrd" target="_blank"><img src="https://shields.io/badge/@Devilyxrd-111111.svg?&style=for-the-badge&logo=github"></a>
      <a href="https://open.spotify.com/user/31wkss7c2lcsk6zjupynod725c6y" target"blank_"><img src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://instagram.com/Devilyxrd" target"blank_" target"blank_"><img src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://x.com/Devilyxrd" target"blank_" target"blank_"><img src="https://img.shields.io/badge/@Devilyxrd-111111?%20-1ed760.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
-    
 </div>
-
-## 🌐 Software Languages and Tools
 
 <div align="center">   
   <h2>OS, Programming Languages and Tools</h2>
