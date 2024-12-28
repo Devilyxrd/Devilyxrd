@@ -74,8 +74,6 @@
                     width="40" height="40" />
                 <img src="https://github.com/user-attachments/assets/1807be6e-b5b1-4370-81e5-32eae80c50fa" alt="Go"
                     width="40" height="40" />
-                <img src="https://github.com/user-attachments/assets/0c2baa51-bf2b-457b-9a61-edfd1260ceff" alt="Postman"
-                    width="40" height="40" />
             </td>
         </tr>
         <tr>
@@ -140,6 +138,8 @@
                     alt="Cloudflare" width="40" height="40" />
                 <img src="https://github.com/user-attachments/assets/77930119-a4b7-4b52-8da0-436ae69775fc"
                     alt="FileZilla" width="40" height="40" />
+                <img src="https://github.com/user-attachments/assets/0c2baa51-bf2b-457b-9a61-edfd1260ceff" alt="Postman"
+                    width="40" height="40" />
             </td>
         </tr>
         <tr>
