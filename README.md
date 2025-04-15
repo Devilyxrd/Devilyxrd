@@ -8,11 +8,7 @@
 <div>
     <h2>
         Hi! I'm Devilyxrd.
-        <a href="https://visitcount.itsvg.in">
-            <img align="right"
-                src="https://visitcount.itsvg.in/api?id=Devilyxrd&label=Profile%20Views&color=12&icon=2&pretty=false" />
-        </a>
-        </h1>
+    </h2>
 </div>
 <br>
 <div align="center">
