@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/69230131-097c-49b0-bb96-4ee9bc9c962f" /><div align="center">
     <img src="https://i.pinimg.com/originals/23/c9/a3/23c9a31478aeff806094f1b7a556d451.gif"
         style="width: 100%; height: auto;">
 </div>
@@ -70,6 +70,10 @@
                     width="40" height="40" />
                 <img src="https://github.com/user-attachments/assets/1807be6e-b5b1-4370-81e5-32eae80c50fa" alt="Go"
                     width="40" height="40" />
+                <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" alt="Flutter"
+                    width="40" height="40" />
+                <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" alt="Dart"
+                    width="40" height="40" />
             </td>
         </tr>
         <tr>
@@ -86,6 +90,8 @@
                 <img src="https://github.com/user-attachments/assets/07b61ed3-9286-442e-afc1-a99918d1fb84"
                     alt="Microsoft SQL Server" width="40" height="40" />
                 <img src="https://github.com/user-attachments/assets/ab0afcb8-a2c4-4cda-9c04-d71f0502a856" alt="MongoDB"
+                    width="40" height="40" />
+                <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase"
                     width="40" height="40" />
                 <img src="https://github.com/user-attachments/assets/bd0c3d4f-9092-43cb-9e05-1172afd9e6f9" alt="Oracle"
                     width="40" height="40" />
@@ -107,9 +113,13 @@
         <tr>
             <th>Operating Systems</th>
             <td>
+                <img src="https://github.com/user-attachments/assets/acfc9468-72ca-44d1-b4c8-96aa03a6bcf8" alt="Windows"
+                    width="40" height="40" />
                 <img src="https://github.com/user-attachments/assets/30fbc541-7d82-4223-af6d-9a14c79bf199" alt="Linux"
                     width="40" height="40" />
-                <img src="https://github.com/user-attachments/assets/acfc9468-72ca-44d1-b4c8-96aa03a6bcf8" alt="Windows"
+                <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu"
+                    width="40" height="40" />
+                <img src="https://icon.icepanel.io/Technology/svg/Debian.svg" alt="Ubuntu"
                     width="40" height="40" />
             </td>
         </tr>
