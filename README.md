@@ -1,4 +1,4 @@
-# 👋 Welcome to My Digital Universe
+# 👋 Dijital Evrenime Hoş Geldiniz
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/23/c9/a3/23c9a31478aeff806094f1b7a556d451.gif" 
@@ -9,10 +9,10 @@
 
 <div align="center">
   <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: 700; margin: 0;">
-    Hi! I'm Devilyxrd 🚀
+    Merhaba! Ben Devilyxrd 🚀
   </h1>
   <p style="font-size: 1.3em; color: #6c757d; margin-top: 10px; font-style: italic;">
-    Full Stack Developer • Tech Enthusiast • Code Artisan
+    Full Stack Developer • Teknoloji Tutkunu • Kod Sanatçısı
   </p>
 </div>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Benimle İletişime Geçin**
 
 <div align="center">
   <table style="border: none; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 20px; padding: 20px; margin: 20px auto; box-shadow: 0 15px 35px rgba(0,0,0,0.2);">
