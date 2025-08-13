@@ -6,6 +6,14 @@
   
   <img src="https://i.pinimg.com/originals/23/c9/a3/23c9a31478aeff806094f1b7a556d451.gif" alt="Coding Animation" width="400" style="border-radius: 10px;"/>
   
+</div>
+
+---
+
+## 🎮 Discord Status
+
+<div align="center">
+  
   [![Discord](https://lanyard.cnrad.dev/api/791719890553274389)](https://discord.com/users/791719890553274389)
   
 </div>
@@ -112,20 +120,25 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilyxrd&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilyxrd&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilyxrd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF7B72"/>
   
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=devilyxrd&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilyxrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css"/>
   
 </div>
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devilyxrd&theme=react-dark&hide_border=true&area=true)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=devilyxrd&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+  
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devilyxrd&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=FF7B72&point=C9D1D9)
   
 </div>
 
