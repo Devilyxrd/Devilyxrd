@@ -63,7 +63,7 @@
         <strong>Frontend</strong>
     </td>
     <td>
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,jquery,nextjs,vue,express&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,jquery,nextjs,vue&theme=dark" />
     </td>
 </tr>
 <tr>
