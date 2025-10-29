@@ -55,7 +55,7 @@
         <strong>Languages</strong>
     </td>
     <td>
-        <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,cpp,cs,go,dart&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,cpp,cs,go,dart,flutter&theme=dark" />
     </td>
 </tr>
 <tr>
