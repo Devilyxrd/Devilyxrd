@@ -58,7 +58,6 @@
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🎨 Frontend Development
@@ -76,7 +75,6 @@
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -125,26 +123,6 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=devilyxrd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&border_radius=10" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilyxrd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=10" height="180em" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilyxrd&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&border_radius=10" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilyxrd&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9&area=true&border_radius=10" width="98%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ### 🎵 Spotify Playing
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wkss7c2lcsk6zjupynod725c6y&unique=true&count=5&width=400" alt="Spotify Recently Played" />
@@ -155,23 +133,7 @@
 
 ---
 
-<br>
-
 <div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=devilyxrd&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 **Thanks for visiting! 🚀**
 
