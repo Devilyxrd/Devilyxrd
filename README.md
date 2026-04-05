@@ -1,36 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=160&section=header&text=Devilyxrd&fontSize=64&fontAlignY=40&animation=twinkling&fontColor=a259ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=200&section=header&text=Devilyxrd&fontSize=72&fontAlignY=42&animation=twinkling&fontColor=a259ff" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=a259ff&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Building+things+that+matter." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=a259ff&center=true&vCenter=true&width=500&lines=Software+Developer;Building+things+that+matter.;Clean+Code+%7C+Scalable+Systems;Always+learning%2C+always+shipping." />
 
 <br/>
+
+<p>
+  <a href="https://discord.com/users/791719890553274389"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://github.com/Devilyxrd"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kaan-atalay-274b00263/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/Devilyxrd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/Devilyxrd"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31wkss7c2lcsk6zjupynod725c6y"><img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 👾 About Me
 
-### Connect with me
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/791719890553274389)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devilyxrd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-atalay-274b00263/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Devilyxrd)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Devilyxrd)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wkss7c2lcsk6zjupynod725c6y)
-
-</div>
+```ts
+const devilyxrd = {
+  name:       "Kaan",
+  alias:      "Devilyxrd",
+  role:       "Software Developer",
+  focus:      ["Web", "Backend Systems", "DevOps", "IoT"],
+  available:  true,
+};
+```
 
 ---
 
 ## 🛠 Tech Stack
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>🔤 Languages</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,7 +54,7 @@
 </details>
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -62,13 +70,21 @@
 </details>
 
 <details open>
-<summary><b>Backend & Databases</b></summary>
+<summary><b>⚙️ Backend & Frameworks</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -79,7 +95,7 @@
 </details>
 
 <details open>
-<summary><b>Cloud, DevOps & Tools</b></summary>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -101,17 +117,28 @@
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Devilyxrd&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a259ff&fire=a259ff&currStreakLabel=a259ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Devilyxrd&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a259ff&fire=a259ff&currStreakLabel=a259ff&sideLabels=a259ff&dates=6a6a88" />
+
 
 </div>
 
 ---
 
-## 🎵 Recently Played
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wkss7c2lcsk6zjupynod725c6y&unique=true&count=4&width=420" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devilyxrd&bg_color=0d0d0d&color=a259ff&line=7c3aed&point=c084fc&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎵 Recently Played on Spotify
+
+<div align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wkss7c2lcsk6zjupynod725c6y&unique=true&count=5&width=440" />
 
 </div>
 
@@ -123,6 +150,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 </div>
