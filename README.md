@@ -1,6 +1,6 @@
 ![Devilyxrd — Software Developer. Blockchain, backend systems, and full-stack applications.](./assets/profile-header.svg)
 
-# Hi, I'm Kaan Atalay.
+# Hi, I'm Kaan.
 
 I'm a software developer working across **blockchain, backend systems, and full-stack applications**.
 
