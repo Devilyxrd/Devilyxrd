@@ -4,7 +4,7 @@
 
 I'm a software developer working across **blockchain, backend systems, and full-stack applications**.
 
-I take web projects **from initial requirements to launch**, handling UI/UX design, frontend development, backend and database architecture, integrations, testing, and deployment.
+I take software projects from initial requirements to launch, handling analysis, UI/UX design, frontend and backend development, system and database architecture, integrations, testing, and deployment.
 
 [LinkedIn](https://www.linkedin.com/in/kaan-atalay-274b00263/)
 
@@ -27,10 +27,10 @@ A bilingual pre-assessment and appointment application system for a medical prac
 
 ## What I work on
 
-- **Blockchain & backend architecture** — permissioned networks, service design, and APIs.
 - **Product design & frontend** — requirements analysis, UI/UX design, and web interfaces with React, Next.js, and TypeScript.
 - **Backend systems** — application architecture, databases, APIs, and service integrations.
 - **Infrastructure & deployment** — testing, containerization, server configuration, and production deployment.
+- **Blockchain & backend architecture** — permissioned networks, service design, and APIs.
 - **IoT** — connected devices with MQTT, Arduino, and Raspberry Pi.
 
 ## Toolbox
@@ -41,7 +41,7 @@ A bilingual pre-assessment and appointment application system for a medical prac
 | Backend | Node.js, NestJS, Express, Go, Python, FastAPI, Flask |
 | Data | PostgreSQL, MySQL, MongoDB, Redis, SQLite, Firebase |
 | Infrastructure | Linux, Docker, Kubernetes, Nginx, AWS, Cloudflare, Git |
-| Hardware & messaging | MQTT, Arduino, Raspberry Pi |
+| Hardware & messaging | MQTT, Arduino, ESP, Raspberry Pi |
 
 <details>
 <summary>More languages and tools</summary>
