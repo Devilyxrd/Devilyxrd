@@ -7,6 +7,7 @@ I'm a software developer working across **blockchain, backend systems, and full-
 I take software projects from initial requirements to launch, handling analysis, UI/UX design, frontend and backend development, system and database architecture, integrations, testing, and deployment.
 
 [LinkedIn](https://www.linkedin.com/in/kaan-atalay-274b00263/)
+[My Website](https://devilyxrddev.com/)
 
 ## Selected work
 
